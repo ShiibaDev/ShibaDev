@@ -1,10 +1,10 @@
-- **Who is ShibaDev?** He's is a computer science student, actually studying with online courses and wanna go study on Utokyo, on Japan. Tokyo
+- **Who is ShibaDev?** An student that works console apps, web development and discord bots [This last one is on the fure]
 
-- **What he's interested?** He's interested on multiples languages and jobs, but he going for software engineering like: *JavaScript, C#, Python and C++, C*
+- **What he's interested?** I am interested on C variants (C++ and C), Python, the basics ones like HTML, CSS and JavaScript, and interested to make my own language.
 
-`console.log("He also work with discord.js");`
+`// Working with C++ is easy... Help please`
 
-- **Is he finding job?** Actually, he just wanna earn a little bit for a good equipment, and for the university on Japan. He actually searching HTML jobs.
+- **Is he finding job?** Actually, he just wanna earn a little bit for a good equipment, for the university and some food lol
 
 <!---
 ShiibaDev/ShiibaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
