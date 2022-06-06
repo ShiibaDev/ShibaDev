@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 - *[Roadmap]*
    - Earn aproximatly 22K dollars in total for the university and equipment of software engineering.
-   - Learn aproximatly enought HTML, CSS and JavaScript to develop a decent webpage.
    - Became a Junior developer.
-   - Get discord mod badge lol
+   - Get discord mod badge lol.
    - Be your friend :)
